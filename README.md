@@ -1,5 +1,7 @@
 # PytermPhish
 Phishing con Asistente Voz para Termux.
+!!Esta herramienta fue creada con fines educativos.
+Los desarrolladores no se hacen responsables por el mal uso de la misma!!
 Created by: F@br1x and 你好😜
 
 Pasos de Instalación en Termux
