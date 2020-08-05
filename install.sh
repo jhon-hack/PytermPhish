@@ -10,6 +10,7 @@ echo -e "\e[1;32mInstalando play-audio..."
 apt install play-audio -y > /dev/null 2>&1
 echo -e "\e[1;33mInstalando curl..."
 apt install curl -y > /dev/null 2>&1
+apt install jq -y > /dev/null 2>&1
 echo -e "\e[1;32mActualizando pip..."
 pip install --upgrade pip
 echo -e "\e[1;33mInstalando zip y unzip..."
